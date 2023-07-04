@@ -9,7 +9,3 @@ function calc(num1, num2, callback) {
 function greeting(name) {
   return `Hello, ${name}`
 }
-
-setTimeout(() => {
-  console.log(greeting("Lucas"))
-}, 5000)

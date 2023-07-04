@@ -71,3 +71,7 @@ Node: fs, https.
 ## Callbacks
 
 Una función de callback es una función que se pasa a otra función como un argumento, que luego se invoca dentro de la función externa para completar algún tipo de rutina o acción.
+
+### XMLHTTPRequest 
+
+Es un objeto de JavaScript que fué diseñado para obtener información de una URL sin tener que recargar la página completa. Una página web puede actualizar o cargar partes de la página sin interrumpir al usuario. Este objeto se utiliza mucho cuando se trabaja con AJAX.
