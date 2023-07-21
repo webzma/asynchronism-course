@@ -75,3 +75,14 @@ Una función de callback es una función que se pasa a otra función como un arg
 ### XMLHTTPRequest 
 
 Es un objeto de JavaScript que fué diseñado para obtener información de una URL sin tener que recargar la página completa. Una página web puede actualizar o cargar partes de la página sin interrumpir al usuario. Este objeto se utiliza mucho cuando se trabaja con AJAX.
+
+## Promise 
+
+Es un objeto que representa la eventual finalización (o falla) de una operación asincrónica y su valor resultante.
+
+
+### Fetch 
+
+Fetch proporciona una interfaz JavaScript para acceder y manipular partes del canal HTTP, tales como peticiones y respuestas. También provee un método global que proporciona una forma fácil y lógica de obtener recursos de forma asíncrona por la red.
+
+Este tipo de funcionalidad se conseguía previamente haciendo uso de XMLHttpRequest. Fetch proporciona una alternativa mejor que puede ser empleada fácilmente por otras tecnologías como Service Workers. Fetch también aporta un único lugar lógico en el que definir otros conceptos relacionados con HTTP como CORS y extensiones para HTTP.
